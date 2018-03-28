@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Altostratus"
-date:   2018-3-28 
+date:   2018-03-28 
 tags: aws cloud devops react javascript golang tech 
 ---
 ## DevOps solutions for business  
