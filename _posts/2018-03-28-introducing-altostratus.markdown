@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Introducing Altostratus"
-date:   2018-03-28 
-tags: aws cloud devops react javascript golang tech 
+date:   2018-3-28 
+tags: aws cloud devops tech    
 ---
 ## DevOps solutions for business  
 Altostratus LLC was formed in late March 2018, and will launch DevOps consultant services in April 2018.  
